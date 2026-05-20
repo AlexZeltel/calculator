@@ -1,7 +1,6 @@
 # Калькулятор v2.0
 
-**Автор:** AlexZeltel  
-**Дата:** 20.05.2026
+**Автор: AlexZeltel**
 
 Я продолжаю изучать C++, и это мой первый проект — консольный калькулятор с поддержкой нескольких языков и кроссплатформенным кодом.
 
@@ -33,7 +32,6 @@
 # Calculator v2.0
 
 **Author:** AlexZeltel  
-**Date:** 20.05.2026
 
 I'm learning C++ and this is my first project — a console calculator with multi-language support and cross-platform code.
 
