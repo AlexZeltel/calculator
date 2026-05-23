@@ -1,4 +1,4 @@
-# Калькулятор v2.0
+# Калькулятор v2.1
 
 **Автор: AlexZeltel**
 
@@ -36,7 +36,7 @@
 
 ---
 
-# Calculator v2.0
+# Calculator v2.1
 
 **Author:** AlexZeltel  
 
